@@ -1,2 +1,2 @@
 # Clone_Asos
- The clone of asos in 5 days
+ The clone of asos in 5 days (a collaborative approach)
