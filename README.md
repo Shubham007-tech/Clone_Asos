@@ -7,6 +7,6 @@ Some of the key feature of this project is - User centric design , Filter and So
 
 Tech Stack used is - HTML , CSS , Javascript with DOM manupulation.
    The clone of Asos in 5 days (a collaborative approach)
- Please have a look at project at - https://shubham007-tech.github.io/Clone_Asos/
+ Please have a look at project at  - https://shubham007-tech.github.io/Clone_Asos/
  <br><br/>
 <a href=""><img src="https://boutique.humbleandrich.com/wp-content/uploads/2019/04/ASOS.jpg" alt="" ></a>
